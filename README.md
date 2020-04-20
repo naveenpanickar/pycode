@@ -2,14 +2,14 @@
 Python Code - Basics of Python:
 
 Fundamental types -
-  Integer
-  Floats
-  Boolean
-  Strings
-  Complex
+  Integer/
+  Floats/
+  Boolean/
+  Strings/
+  Complex/
 
 Variables -
-  Dynamic Typing
+  Dynamic Typing/
   Strong Typing
 
 Boolean Evaluation - and / or / not / is
