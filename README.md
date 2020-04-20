@@ -19,13 +19,25 @@ Branching (if / elif / else)
 Lists
 
 Loops -
-  for loop
-  for loop with else
+  for loop/
+  for loop with else/
   while loop
   
 The range() function
 
 statements -
-  pass
-  break
+  pass/
+  break/
   continue
+  
+ Containers and Functions -
+  Tuple/
+  Set/
+  Dictionary/
+  Function/
+  Lambda/
+  Iterator/
+  Generator/
+  Map/
+  Reduce/
+  Filter
