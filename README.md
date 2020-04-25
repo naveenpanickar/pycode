@@ -41,3 +41,12 @@ statements -
   Map/
   Reduce/
   Filter
+  
+ Object Orinted Programming (OOP) -
+  Class
+  /Object
+  /abstraction - public : protected _ : private __
+  /inheritance
+  /encapsulation
+  /polymorphism
+  
